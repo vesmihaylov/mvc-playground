@@ -1,0 +1,17 @@
+{
+    "name": "vmihaylov/mvc-playground",
+    "description": "Custom use of the Model-View-Controller design pattern.",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Veselin Mihaylov",
+            "email": "vesmihaylovdev@gmail.com"
+        }
+    ],
+    "require": {}
+}

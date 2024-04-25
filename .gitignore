@@ -1,0 +1,6 @@
+##### JetBrains
+.idea/
+
+##### Composer
+composer.phar
+/vendor/
